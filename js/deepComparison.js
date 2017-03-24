@@ -1,4 +1,5 @@
 // Project: Deep Comparison
+// Not functioning properly yet, not properly checking properties/values
 
 // when comparing two objects with == operator the identity
 // (location in memory) are compared not the actual properties
